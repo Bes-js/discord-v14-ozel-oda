@@ -1,11 +1,11 @@
 # Discord v14 Gelişmiş Özel Oda Botu
 
 
-- Discord Sunucularınızda Kullanabileceğiniz v14 Gelişmiş Özel Oda Botu.
+- **_Discord Sunucularınızda Kullanabileceğiniz v14 Gelişmiş Özel Oda Botu._**
 
-- Bot Herangi Bir Özel Odaya Bir Kişi İzinsiz Katıldığı Zaman Kullanıcıyı Sesten Atıyor, Hem Ses Kalanından Oda Oluşturma Hemde Button/Menu Panel Üzerinden Gerçekleştirilebilen Özel Oda Botu.
+- **_Bot Herangi Bir Özel Odaya Bir Kişi İzinsiz Katıldığı Zaman Kullanıcıyı Sesten Atıyor, Hem Ses Kalanından Oda Oluşturma Hemde Button/Menu Panel Üzerinden Gerçekleştirilebilen Özel Oda Botu._**
 
-- 10 Star'da Paylaşılacak.
+- **_10 Star'da Paylaşılacak._**
 
   
 
