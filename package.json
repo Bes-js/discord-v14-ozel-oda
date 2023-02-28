@@ -1,7 +1,7 @@
 {
   "name": "v14-bes-custom",
   "version": "0.0.1",
-  "description": "Custom Ozel Oda Sistemi -Beş",
+  "description": "Ozel Oda Sistemi -Beş",
   "main": "beş.js",
   "scripts": {
     "start": "node beş.js"
