@@ -3,7 +3,7 @@
 
 - **_Discord Sunucularınızda Kullanabileceğiniz v14 Gelişmiş Özel Oda Botu._**
 
-- **_Bot Herangi Bir Özel Odaya Bir Kişi İzinsiz Katıldığı Zaman Kullanıcıyı Sesten Atıyor, Hem Ses Kalanından Oda Oluşturma Hemde Button/Menu Panel Üzerinden Gerçekleştirilebilen Özel Oda Botu._**
+- **_Bot Herhangi Bir Özel Odaya Bir Kişi İzinsiz Katıldığı Zaman Kullanıcıyı Sesten Atıyor, Hem Ses Kalanından Oda Oluşturma Hemde Button/Menu Panel Üzerinden Gerçekleştirilebilen Özel Oda Botu._**
   
  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?hideDiscrim=true)](https://discord.com/users/928259219038302258) 
 
