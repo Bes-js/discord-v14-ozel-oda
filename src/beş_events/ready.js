@@ -25,7 +25,7 @@ if (channel.name.startsWith('#')) {
     client.db.delete(`members_${channel.id}`)
     client.db.delete(`özeloda_${channeldata}`)
     client.db.delete(`${channel.id}`)
-    member.user.send({content:`> **Merhaba ${member.user.username}**\n> *Odada Olmadığın İçin Özel Odan Kapatıldı!*`})
+   //member.user.send({content:`> **Merhaba ${member.user.username}**\n> *Odada Olmadığın İçin Özel Odan Kapatıldı!*`}).catch((bes) => { })
     }
 }
 })
