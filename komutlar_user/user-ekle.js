@@ -23,6 +23,7 @@ module.exports = {
             Stream:true,
             Speak:true
         });
+        client.db.push(`members_${data}`,member.id)
         interaction.reply({content:`> **${member} Kullanıcısı Kanaldan Başarıyla Çıkartıldı!**`,ephemeral:true})
 
       
