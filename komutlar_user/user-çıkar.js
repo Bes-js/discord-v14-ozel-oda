@@ -25,6 +25,7 @@ module.exports = {
             Stream:false,
             Speak:false
         });
+        client.db.pull(`members_${data}`,(element, index, array) => element == member.id, true)
         interaction.reply({content:`> **${member} Kullanıcısı Kanaldan Başarıyla Çıkartıldı!**`,ephemeral:true})
 
       
