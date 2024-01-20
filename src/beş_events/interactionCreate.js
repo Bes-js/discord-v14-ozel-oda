@@ -254,7 +254,7 @@ button.guild.channels.create({
         Stream:true,
         Speak:true
     });
-    let invite = channel.createInvite({maxUses: 1});
+    let invite = await channel.createInvite({maxUses: 1});
     member.user.send({content:`> **${button.user.username} Kullanıcısı Seni Özel Odasına Ekledi!**\n> **Odaya Katıl;** ${invite.code}`}).catch(e => { });
     client.db.push(`members_${data}`,member.id)
     button.reply({content:`> **${member} Kullanıcısı Kanala Başarıyla Eklendi!**`,ephemeral:true})
